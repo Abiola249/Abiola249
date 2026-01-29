@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abiola-aderemi-382b40126"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="(https://www.notion.so/)(https://lavish-butternut-a92.notion.site/Aderemi-Abiola-Data-Analyst-Portfolio-2b7a05e23aa38072b557c6d795e7cbed)"><img src="https://img.shields.io/badge/(https://www.notion.so/)style=for-the-badge&logo=notion"></a>
+  <a href="https://www.notion.so/(https://lavish-butternut-a92.notion.site/Aderemi-Abiola-Data-Analyst-Portfolio-2b7a05e23aa38072b557c6d795e7cbed)"><img src="https://img.shields.io/badge/notio.so-yellow?style=for-the-badge&logo=notion"></a>
   <a href="mailto:official.aderemiabiola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
