@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm [Abiola Aderemi] 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,17 +8,13 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abiola-aderemi-382b40126"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="(https://www.notion.so/)(https://lavish-butternut-a92.notion.site/Aderemi-Abiola-Data-Analyst-Portfolio-2b7a05e23aa38072b557c6d795e7cbed)"><img src="https://img.shields.io/badge/(https://www.notion.so/)style=for-the-badge&logo=notion"></a>
+  <a href="mailto:official.aderemiabiola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Data Analyst specializing in transforming complex datasets into actionable business insights, with a strong foundation in Banking and Finance. Proficient in SQL, Python, Power BI, Tableau, and Excel, I analyze data, track key KPIs, and build insightful dashboards that support data-driven decision-making. With experience across analytics projects, research, business development, and IT, I bring strong critical thinking, communication, and problem-solving skills, and I am focused on delivering measurable outcomes and strategic value to organizations.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
