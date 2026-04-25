@@ -13,11 +13,11 @@
   <a href="mailto:official.aderemiabiola@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 Data Analyst specializing in transforming complex datasets into actionable business insights, with a strong foundation in Banking and Finance. Proficient in SQL, Python, Power BI, Tableau, and Excel, I analyze data, track key KPIs, and build insightful dashboards that support data-driven decision-making. With experience across analytics projects, research, business development, and IT, I bring strong critical thinking, communication, and problem-solving skills, and I am focused on delivering measurable outcomes and strategic value to organizations.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!-- Replace "your-username" with your actual GitHub username -->
+###  Check Out My Full Portfolio Website](https://your-username.[github.io](https://github.com/Abiola249)/)
       
 ##  What I'm Currently Working On 
 
