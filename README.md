@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Aspiring+Data+Scientist];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Aspiring+Data+Scientist];[Driven by data+powered by insight+focused on impact.]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,9 +14,7 @@
 </p>
 
 ## About Me 
-I am a results-driven **Data Analyst with hands-on experience transforming complex datasets into actionable insights, business dashboards, and predictive solutions that support smarter decision-making.**  
-My work sits at the intersection of **Data Analytics, Business Intelligence, and Data Science**, where I use data not just to report what happened — but to uncover why it happened and what should happen next.
-With practical experience across customer analytics, sentiment analysis, predictive modeling, KPI reporting, and business visualization, I build solutions that translate numbers into measurable business value.
+I am a results-driven **Data Analyst with hands-on experience transforming complex datasets into actionable insights, business dashboards, and predictive solutions that support smarter decision-making.** My work sits at the intersection of **Data Analytics, Business Intelligence, and Data Science**, where I use data not just to report what happened but to uncover why it happened and what should happen next. With practical experience across customer analytics, sentiment analysis, predictive modeling, KPI reporting, and business visualization, I build solutions that translate numbers into measurable business value.
 
 ## What I Do
 - Analyze structured and unstructured datasets for insight discovery
@@ -28,13 +26,13 @@ With practical experience across customer analytics, sentiment analysis, predict
 
 
 <!-- Replace "your-username" with your actual GitHub username -->
-###  Check Out My Full Portfolio Website](https://your-username.[github.io](https://github.com/Abiola249)/Abiola249)
+###  Check Out My Full Portfolio Website](https://your-username.[[github.io](https://github.com/Abiola249/Abiola249)]
       
 ##  Featured Projects
 
-- **Bank Marketing Analysis:** [ I built a Decision Tree Classifier on the UCI Bank Marketing dataset to predict customer subscription, and how those insights translate into real business decisions.]  
-- **Twitter Sentiment Analysis:** [I analyzed 73,996 tweets across 32 global brands and gaming entities to uncover real public sentiment.A structured Excel dashboard showing the insights visually]
-- **Vehicle Crash Dynamics Analysis:** [examining sensor data from a real collision to understand exactly what happened within 55.2 seconds of impact.Key findings around impact severity, injury risk, and structural behavior. How these insights apply across medical response, insurance, engineering, and road safety policy]
+- **Bank-marketing-customer-subscription-prediction:** [ Machine Learning classification project predicting customer term deposit subscription using Decision Tree modeling, hyperparameter tuning, and Power BI business dashboard reporting..]  
+- **Twitter-brand-sentiment-analysis-dashboard:** [Sentiment analysis project on 73,996 tweets uncovering public perception trends, customer dissatisfaction signals, and brand loyalty patterns using Excel analytics and dashboard storytelling.]
+- **Vehicle-crash-dynamics-forensic-analysis:** [Time-series crash sensor analytics project identifying impact severity, injury-risk phases, rebound force patterns, and forensic reconstruction insights using Python, Excel, and Power BI.]
 
 ## Currently Learning 
 
