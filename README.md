@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Aspiring+Data+Scientist];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,12 +14,23 @@
 </p>
 
 ## About Me 
-Data Analyst specializing in transforming complex datasets into actionable business insights, with a strong foundation in Banking and Finance. Proficient in SQL, Python, Power BI, Tableau, and Excel, I analyze data, track key KPIs, and build insightful dashboards that support data-driven decision-making. With experience across analytics projects, research, business development, and IT, I bring strong critical thinking, communication, and problem-solving skills, and I am focused on delivering measurable outcomes and strategic value to organizations.
+I am a results-driven **Data Analyst with hands-on experience transforming complex datasets into actionable insights, business dashboards, and predictive solutions that support smarter decision-making.**  
+My work sits at the intersection of **Data Analytics, Business Intelligence, and Data Science**, where I use data not just to report what happened — but to uncover why it happened and what should happen next.
+With practical experience across customer analytics, sentiment analysis, predictive modeling, KPI reporting, and business visualization, I build solutions that translate numbers into measurable business value.
+
+## What I Do
+- Analyze structured and unstructured datasets for insight discovery
+- Build interactive dashboards and executive KPI reports
+- Develop machine learning models for prediction and classification
+- Clean, transform, and prepare raw data for analysis
+- Translate analytical findings into stakeholder-friendly recommendations
+- Solve business problems through data-driven storytelling
+
 
 <!-- Replace "your-username" with your actual GitHub username -->
-###  Check Out My Full Portfolio Website](https://your-username.[github.io](https://github.com/Abiola249)/)
+###  Check Out My Full Portfolio Website](https://your-username.[github.io](https://github.com/Abiola249)/Abiola249)
       
-##  What I'm Currently Working On 
+##  Featured Projects
 
 - **Bank Marketing Analysis:** [ I built a Decision Tree Classifier on the UCI Bank Marketing dataset to predict customer subscription, and how those insights translate into real business decisions.]  
 - **Twitter Sentiment Analysis:** [I analyzed 73,996 tweets across 32 global brands and gaming entities to uncover real public sentiment.A structured Excel dashboard showing the insights visually]
@@ -56,3 +67,15 @@ Data Analyst specializing in transforming complex datasets into actionable busin
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+
+## 2026 Goals
+
+- Build more end-to-end Machine Learning projects
+- Contribute to open-source analytics solutions
+- Secure global remote opportunities in Data Analytics / Data Science
+- Collaborate on impactful FinTech and Business Intelligence products
+
+
+## Fun Fact
+I believe data becomes powerful only when it leads to decisions, action, and measurable impact.
