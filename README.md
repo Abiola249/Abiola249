@@ -21,14 +21,14 @@ Data Analyst specializing in transforming complex datasets into actionable busin
       
 ##  What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Bank Marketing Analysis:** [ I built a Decision Tree Classifier on the UCI Bank Marketing dataset to predict customer subscription, and how those insights translate into real business decisions.]  
+- **Twitter Sentiment Analysis:** [I analyzed 73,996 tweets across 32 global brands and gaming entities to uncover real public sentiment.A structured Excel dashboard showing the insights visually]
+- **Vehicle Crash Dynamics Analysis:** [examining sensor data from a real collision to understand exactly what happened within 55.2 seconds of impact.Key findings around impact severity, injury risk, and structural behavior. How these insights apply across medical response, insurance, engineering, and road safety policy]
 
 ## Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Pursuing advanced Data Science training with MTN Academy to deepen my capabilities in machine learning, statistical modeling, and analytical decision-making.]
+- [Participating in the Aspire Institute to strengthen leadership excellence, innovation mindset, and global professional readiness.]
 
 ## Technical Skillset
 
